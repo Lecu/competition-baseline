@@ -16,6 +16,16 @@
 
 每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
 
+## [CCF BDCI2020大数据与计算智能大赛](https://www.datafountain.cn/special/BDCI2020)
+- 通用音频分类, [LGB](https://github.com/zjuzpw/baseline/blob/CCF2020BDCI/baseline_lgb.ipynb), [CNN, 0.9+](https://blog.csdn.net/wherewegogo/article/details/110369729)
+- 遥感影像地块分割, [U-Net](https://aistudio.baidu.com/aistudio/projectdetail/1090790)
+- 房产行业聊天问答匹配, [Bert](https://github.com/syzong/2020_ccf_qa_match), [RoBERTa](https://github.com/LogicJake/competition_baselines/tree/master/competitions/property_chat_pair)
+- 小学数学应用题自动解题, [规则思路](https://discussion.datafountain.cn/questions/3169?new=0)
+- 路况状态时空预测, [OTTO Lab](https://github.com/juzstu/ccf2020_didi), [异度侵入](https://mp.weixin.qq.com/s/1vJDOInUOdBgXtLdVcpsEA)
+- 企业非法集资风险预测, [第一次打比赛](https://github.com/LogicJake/competition_baselines/tree/master/competitions/fund_raising_risk_prediction), [DLLXW](https://github.com/DLLXW/data-science-competition/tree/main/datafountain), [阿水](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E4%BC%81%E4%B8%9A%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84%E9%A3%8E%E9%99%A9%E9%A2%84%E6%B5%8B)
+- 大数据时代的Serverless工作负载预测, [第一次打比赛（A榜0.208）](https://github.com/LogicJake/competition_baselines/tree/master/competitions/serverless_load_prediction), [siguo（A榜0.211）](https://blog.csdn.net/qq_48081601/article/details/109338443), [CNN-LSTM](https://zhuanlan.zhihu.com/p/301092469),[鱼佬(0.285)](https://mp.weixin.qq.com/s/Ovb1pic2nleQhTObIaj2Ww), [siliconx(0.311)](https://github.com/siliconx/serverless)
+- 重点区域人群密度预测, [第1名方案](https://github.com/agave233/2020-CCF-Crowd-Flow-Prediction)
+
 ### [第四届工业大数据创新竞赛——算法赛道](http://www.industrial-bigdata.com/Challenge/title?competitionId=GKLEW707XP2O58KZNLO4UPYKCOIEQONH)
 - 学习手册：https://coggle.club/learn/industrial-bigdata-4th/
 - [注塑成型工艺的虚拟量测和调机优化](https://github.com/datawhalechina/competition-baseline/blob/master/competition/%E7%AC%AC%E5%9B%9B%E5%B1%8A%E5%B7%A5%E4%B8%9A%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%9B%E6%96%B0%E7%AB%9E%E8%B5%9B%EF%BC%9A%E7%AE%97%E6%B3%95%E8%B5%9B%E9%81%93/%E6%B3%A8%E5%A1%91%E6%88%90%E5%9E%8B%E8%B5%9B%E9%81%93baseline.ipynb)
@@ -35,6 +45,8 @@
 
 ### 结构化比赛
 
+- [2020厦门国际银行数创金融杯建模大赛](https://www.dcjingsai.com/v2/cmptDetail.html?id=439&=76f6724e6fa9455a9b5ef44402c08653), [第一次打比赛](https://github.com/LogicJake/competition_baselines/tree/master/competitions/xiamen_international_bank_2020), [OTTO Lab](https://github.com/cXPromise/Datacasle_2020XM_Baseline), [0.46](https://github.com/BirderEric/XianmenBank)
+- [2019厦门国际银行“数创金融杯”数据建模大赛](https://m.dcjingsai.com/cmptDetail.html?id=319), [yanqiangmiffy](https://github.com/yanqiangmiffy/Data-Finance-Cup), [shenxiangzhuang](https://github.com/shenxiangzhuang/Bank-Competition)
 - [天池-零基础入门数据挖掘 - 二手车交易价格预测](https://tianchi.aliyun.com/competition/entrance/231784/introduction), [baseline链接](https://github.com/yangjiada/used_cars)
 - [天池-2020数字中国创新大赛—算法赛：智慧海洋建设](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-2020%E6%95%B0%E5%AD%97%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B%E2%80%94%E7%AE%97%E6%B3%95%E8%B5%9B%EF%BC%9A%E6%99%BA%E6%85%A7%E6%B5%B7%E6%B4%8B%E5%BB%BA%E8%AE%BE), 结构化数据比赛
 - [DataFountain-乘用车细分市场销量预测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E4%B9%98%E7%94%A8%E8%BD%A6%E7%BB%86%E5%88%86%E5%B8%82%E5%9C%BA%E9%94%80%E9%87%8F%E9%A2%84%E6%B5%8B), 结构化
